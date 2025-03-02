@@ -1,0 +1,7 @@
+C:\Users\Baku\source\c#\C Yoxla\C Yoxla\bin\Debug\C Yoxla.exe.config
+C:\Users\Baku\source\c#\C Yoxla\C Yoxla\bin\Debug\C Yoxla.exe
+C:\Users\Baku\source\c#\C Yoxla\C Yoxla\bin\Debug\C Yoxla.pdb
+C:\Users\Baku\source\c#\C Yoxla\C Yoxla\obj\Debug\C Yoxla.csproj.AssemblyReference.cache
+C:\Users\Baku\source\c#\C Yoxla\C Yoxla\obj\Debug\C Yoxla.csproj.CoreCompileInputs.cache
+C:\Users\Baku\source\c#\C Yoxla\C Yoxla\obj\Debug\C Yoxla.exe
+C:\Users\Baku\source\c#\C Yoxla\C Yoxla\obj\Debug\C Yoxla.pdb
